@@ -18,13 +18,13 @@ If you want to see how many times the tested code works, the following command i
 
 ` npm run coverage `
 
-Coverage Report : https://muhammetfurkandemiral.github.io/MochaCoverageReport/
+Coverage Report : [https://muhammetfurkandemiral.github.io/MochaCoverageReport/](https://mfurkandemiralreport.github.io/MochaCoverageReport/)
 
 If you want to see test report, the following command is written on the terminal screen.
 
 ` npm run mochawesome `
 
-Mochawesome Report : https://muhammetfurkandemiral.github.io/MochawesomeTestReport/
+Mochawesome Report : [https://muhammetfurkandemiral.github.io/MochawesomeTestReport/](https://mfurkandemiralreport.github.io/MochaAwesomeReport/)
 
 
 ## Working Video
